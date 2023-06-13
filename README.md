@@ -13,8 +13,10 @@
 
 ---
 
-Source1：[VayneDuan/cqu-cs-learning-materials](https://github.com/VayneDuan/cqu-cs-learning-materials)
-Source2：[Maxpicca-Li/cqu-cs-learning-materials](https://github.com/Maxpicca-Li/cqu-cs-learning-materials)
-Fork: [tyouthfor/cqu-cs-learning-materials](https://github.com/tyouthfor/cqu-cs-learning-materials)
+### Source1：[VayneDuan/cqu-cs-learning-materials](https://github.com/VayneDuan/cqu-cs-learning-materials)
 
-计院专业课的试卷似乎都不准老师发出来, 希望有学弟学妹们能将我”回 忆试卷”的习惯传承下去! ——from VayneDuan
+### Source2：[Maxpicca-Li/cqu-cs-learning-materials](https://github.com/Maxpicca-Li/cqu-cs-learning-materials)
+
+### Fork: [tyouthfor/cqu-cs-learning-materials](https://github.com/tyouthfor/cqu-cs-learning-materials)
+
+### 计院专业课的试卷似乎都不准老师发出来, 希望有学弟学妹们能将我”回 忆试卷”的习惯传承下去! ——from VayneDuan
